@@ -3,6 +3,8 @@
 ## 1. Linux Guide
 
 > [Linux Guide](https://github.com/NeoNeuron/Linux-guide-for-researcher)是同处于Linux目录下Linux-guide-for-researcher.pdf的原文出处，特此声明并向原作者致谢。
+>
+> [Debian 管理员手册](https://debian-handbook.info/browse/zh-CN/stable/)是Debian官方出品的Debian系统管理手册，是一本非常好的Linux系统管理书籍，特此向原作者致谢。
 
 ## 2. Linux大视角速成
 

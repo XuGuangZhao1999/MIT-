@@ -18,7 +18,9 @@
 
 ## 4. Linux内核研究
 
-[Linux Kernel](https://www.kernel.org/doc/html/v4.12/index.html)
+[Linux Kernel Achives](https://www.kernel.org/)是Linux内核的官方网站，可以在这里下载到最新的Linux内核源码。
+
+[Linux Kernel](https://www.kernel.org/doc/html/v4.12/index.html)是Linux内核的官方文档，可以在这里查阅Linux内核的相关文档。
 
 ## 5. DIY Linux
 

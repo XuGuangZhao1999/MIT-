@@ -607,6 +607,7 @@ What you are, 你是什么
 09:43  强AI               Strong AI  
 10:42  强化学习         Reinforcement Learning  
 
+> 机器学习（Mechine Learning）: Algorithms that give computers the ability to learn from data. and then make predictions or take actions based on what they have learned.
 
 ## 第 35 集：计算机视觉  
 02:41  检测垂直边缘的算法  

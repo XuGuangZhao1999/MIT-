@@ -617,7 +617,9 @@ What you are, 你是什么
 05:34  维奥拉·琼斯 人脸检测   Viola-Jones Face Detection  
 05:35  卷积神经网络   Convolutional Neural Networks  
 07:33  识别出脸之后，可以进一步用其他算法定位面部标志，如眼睛和眉毛具体位置，从而判断心情等信息  
-08:52  跟踪全身的标记点，如肩部，手臂等  
+08:52  跟踪全身的标记点，如肩部，手臂等
+
+> Convolutional neural networks aren't required to be many layers deep, but they usually are, in order to recognize complex objects and scenes. That's why the technique is considered deep learning.
 
 
 ## 第 36 集：自然语言处理  

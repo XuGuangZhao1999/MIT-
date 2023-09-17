@@ -619,6 +619,8 @@ What you are, 你是什么
 07:33  识别出脸之后，可以进一步用其他算法定位面部标志，如眼睛和眉毛具体位置，从而判断心情等信息  
 08:52  跟踪全身的标记点，如肩部，手臂等
 
+> This operation of applying a kernel to an image is called convolution. And the kernel is also called a filter. So you can say that we are filtering the image with a kernel. And the result of this operation is called a feature map.
+
 > Convolutional neural networks aren't required to be many layers deep, but they usually are, in order to recognize complex objects and scenes. That's why the technique is considered deep learning.
 
 

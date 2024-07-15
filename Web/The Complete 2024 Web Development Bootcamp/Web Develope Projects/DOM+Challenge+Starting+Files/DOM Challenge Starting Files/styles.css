@@ -1,0 +1,9 @@
+h1 {
+  color: red;
+}
+
+.changeFontStyle {
+  font-size: 20rem;
+  font-weight: bold;
+  color: blue;
+}
